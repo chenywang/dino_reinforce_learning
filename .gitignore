@@ -7,3 +7,5 @@ model.h5
 model.json
 
 .idea/
+
+*.pyc
