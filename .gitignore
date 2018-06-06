@@ -1,12 +1,8 @@
-
-
-objects/
 objects/*
-
 model.h5
 model.json
 
 .idea/
-./chromedriver
+chromedriver
 *.pyc
 .DS_Store
