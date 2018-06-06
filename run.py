@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from dino_agent import DinoAgent, train_network, init_cache, build_model
 from game import Game, Game_sate
 
@@ -15,5 +16,6 @@ def playGame(observe=False):
 
 
 if __name__ == "__main__":
-    init_cache()
-    # playGame(observe=False)
+    # 第一次执行需要先单独运行init_cache
+    # init_cache()
+    playGame(observe=False)
