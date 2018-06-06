@@ -1,5 +1,9 @@
 .DS_Store
 
+objects/
 objects/*
 
 model.h5
+model.json
+
+.idea/
