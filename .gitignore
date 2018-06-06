@@ -1,4 +1,4 @@
-.DS_Store
+
 
 objects/
 objects/*
@@ -9,3 +9,4 @@ model.json
 .idea/
 ./chromedriver
 *.pyc
+.DS_Store
