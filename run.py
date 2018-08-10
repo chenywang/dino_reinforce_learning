@@ -16,6 +16,4 @@ def playGame(observe=False):
 
 
 if __name__ == "__main__":
-    # 第一次执行需要先单独运行init_cache
-    # init_cache()
     playGame(observe=False)
